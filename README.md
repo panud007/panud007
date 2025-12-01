@@ -35,6 +35,7 @@ I'm a beginner developer on a learning journey, building projects to understand 
 ## 📫 Connect with Me
 
 - GitHub: [@panud007](https://github.com/panud007)
+- LinkedIn: [Stevanus Gunawan](https://www.linkedin.com/in/stevanus-gunawan-b3a0b0144)
 
 ---
 
