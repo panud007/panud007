@@ -1,13 +1,13 @@
 # Hi there, I'm Panud 👋
 
-I'm a developer learning full-stack web development and server administration through hands-on projects.
+I'm a beginner developer on a learning journey, building projects to understand full-stack web development and server administration. Still learning and improving every day!
 
 ## 🚀 Current Projects
 
 - **[NGNTD Store](https://github.com/panud007/ngntd-store)** - E-commerce web application built with Next.js, React, and Tailwind CSS
 - **[Linux Mint + aaPanel Setup Guide](https://github.com/panud007/linux-mint-aapanel-setup)** - Complete guide for setting up a development server
 
-## 💻 Tech Stack
+## 💻 Technologies I'm Learning
 
 ### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
